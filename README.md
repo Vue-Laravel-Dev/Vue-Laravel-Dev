@@ -1,5 +1,15 @@
 <h1 align="center">Hi 👋, I'm Romain</h1>
-<h3 align="center">I make websites, apps and games</h3>
+
+#### I am a Front-End Developer based in Toronto, Canada. I'm especially interested in shipping well-tested, responsive web applications and websites while using the latest Front End technology available!
+
+---
+
+### What I'm looking for in my new role:
+- [ ]  I  would like work on a team where pairing is encouraged for all levels
+- [ ]  Be part of a diverse team
+- [ ]  Highly communicative team that spreads positivity and knowledge
+- [ ]  Implements an agile workflow
+- [ ]  Relevant and latest tech(where needed)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=created-by-varun" alt="created-by-varun" /> </p>
 
