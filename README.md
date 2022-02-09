@@ -23,4 +23,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=created-by-varun&layout=compact" alt="created-by-varun" /></p>
 <br/>
 <br/>
-<img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eliben&show_icons=true&hide_border=true&theme=dark&hide_title=true" />
+<p><img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eliben&show_icons=true&hide_border=true&theme=dark&hide_title=true" /></p>
