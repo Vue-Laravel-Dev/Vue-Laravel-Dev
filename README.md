@@ -11,9 +11,7 @@
 - [ ]  Implements an agile workflow
 - [ ]  Relevant and latest tech(where needed)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=created-by-varun" alt="created-by-varun" /> </p>
-
-<p align="left">### Connect with me:
+<h3 align="left">Connect with me:</h3>
 
 [<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.2347562141623615]
 [<img align="left" alt="social-media-profile | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> +380636763691]
