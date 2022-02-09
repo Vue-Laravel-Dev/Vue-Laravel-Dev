@@ -13,9 +13,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=created-by-varun" alt="created-by-varun" /> </p>
 
-- 👨‍💻 View my portfolio (Not updated for a while) [https://its-varun.netlify.app/](https://its-varun.netlify.app/)
-
-- 📫 How to reach me **varunvirupaksha321@gmail.com**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
@@ -29,7 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=created-by-varun&layout=compact" alt="created-by-varun" /></p>
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=created-by-varun&show_icons=true" alt="created-by-varun" /></p>
-
+<img align="left" alt="canove's Github Stats" src="https://github-readme-stats.vercel.app/api?username=eliben&show_icons=true&hide_border=true&theme=dark&hide_title=true" />
