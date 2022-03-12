@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Romain</h1>
+<h1 align="center">Hi 👋</h1>
 
-#### I am a Full-Stack Developer based in Montpellier, France. I'm especially interested in shipping well-tested, responsive web applications and websites while using the latest Front End technology available!
+#### I am a Full-Stack Developer. I'm especially interested in shipping well-tested, responsive web applications and websites while using the latest Front End technology available!
 
 ---
 
