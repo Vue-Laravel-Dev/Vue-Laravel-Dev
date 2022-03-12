@@ -11,10 +11,6 @@
 - [ ]  Implements an agile workflow
 - [ ]  Relevant and latest tech(where needed)
 
-<h3 align="left">Connect with me:</h3>
-
-[<img align="left" alt="social-media-profile | Skype" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/skype.svg" /> live:.cid.388d9fec9f02234f]
-[<img align="left" alt="social-media-profile | Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" /> +33 603590555]
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
