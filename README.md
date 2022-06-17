@@ -13,8 +13,6 @@
 
 <br />
 
-![Screen Shot 2021-09-27 at 3 02 16 PM](https://user-images.githubusercontent.com/85139853/134991478-a4c59079-402a-4b2a-9393-79003755c1e0.png)
-
 ![Seniordev-us's gitHub stats](https://github-readme-stats.vercel.app/api?username=seniordev-us&theme=react&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seniordev-us&theme=react&layout=compact&line_height=10)](https://github.com/anuraghazra/github-readme-stats)
 
