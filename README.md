@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋</h1>
 
-#### Innovative Full-Stack Engineer && Frontend Engineer with overall 8 years of industry experience and extensive programming languages such as HTML, CSS, JavaScript, ES6, React.js, TypeScript, Node.js, Ruby, ROR, Web3, TailwindCSS, Styled components, MUI.
+#### Innovative Full-Stack Engineer with overall 8 years of industry experience and extensive programming languages such as HTML, CSS, JavaScript, ES6, React.js, TypeScript, Node.js, Ruby, ROR, Web3, TailwindCSS, Styled components, MUI.
 Experienced handling all stages of development and following all software guidelines.
 Troubleshoots glitches, improves on existing software and test products in real-life solutions.
 
